@@ -1,0 +1,45 @@
+{
+  "properties": [
+    {
+      "streetName": "40 Alpha Street",
+      "cityStateName": "Austin, TX",
+      "maxBid": 4000,
+      "maxBidder":  "user1",
+      "lastBid": 4000,
+      "lastBidder": "user1"
+    },
+    {
+      "streetName": "50 Beta Street",
+      "cityStateName": "Austin, TX",
+      "maxBid": 4000,
+      "maxBidder": "user1",
+      "lastBid": 1000,
+      "lastBidder": "user2"
+
+    },
+    {
+      "streetName": "60 Gamma Street",
+      "cityStateName": "Austin, TX",
+      "maxBid": 4000,
+      "maxBidder": "user1",
+      "lastBid": 1000,
+      "lastBidder": "user2"
+    },
+    {
+      "streetName": "70 Delta Street",
+      "cityStateName": "Austin, TX",
+      "maxBid": 4000,
+      "maxBidder": "user1",
+      "lastBid": 1000,
+      "lastBidder": "user2"
+    },
+    {
+      "streetName": "80 Epsilon Street",
+      "cityStateName": "Austin, TX",
+      "maxBid": 4000,
+      "maxBidder": "user1",
+      "lastBid": 1000,
+      "lastBidder": "user2"
+    }
+  ]
+}
