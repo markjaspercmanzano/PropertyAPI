@@ -1,0 +1,9 @@
+{
+      "username": "user1",
+      "winningBids": 20,
+      "losingBids": 10,
+      "activeBids": 30,
+      "winningBidValue": 40000,
+      "losingBidValue": 30000,
+      "activeBidValue": 400000
+}
