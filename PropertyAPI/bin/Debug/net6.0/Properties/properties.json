@@ -4,42 +4,52 @@
       "streetName": "40 Alpha Street",
       "cityStateName": "Austin, TX",
       "maxBid": 4000,
-      "maxBidder":  "user1",
+      "maxBidder": "user1",
       "lastBid": 4000,
-      "lastBidder": "user1"
+      "lastBidder": "user1",
+      "imageSource": "https://images.unsplash.com/photo-1549558549-415fe4c37b60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1419&q=80",
+      "propertyPrice": 30000
     },
     {
       "streetName": "50 Beta Street",
       "cityStateName": "Austin, TX",
-      "maxBid": 4000,
+      "maxBid": 10000,
       "maxBidder": "user1",
-      "lastBid": 1000,
-      "lastBidder": "user2"
+      "lastBid": 6000,
+      "lastBidder": "user2",
+      "imageSource": "https://images.unsplash.com/photo-1549472579-e133f59d8b23?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "propertyPrice": 400000
 
     },
     {
       "streetName": "60 Gamma Street",
       "cityStateName": "Austin, TX",
-      "maxBid": 4000,
+      "maxBid": 15000,
       "maxBidder": "user1",
-      "lastBid": 1000,
-      "lastBidder": "user2"
+      "lastBid": 10000,
+      "lastBidder": "user2",
+      "imageSource": "https://images.unsplash.com/photo-1549464650-6de5dfe5b7ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "propertyPrice": 500000
     },
     {
       "streetName": "70 Delta Street",
       "cityStateName": "Austin, TX",
-      "maxBid": 4000,
+      "maxBid": 2000,
       "maxBidder": "user1",
-      "lastBid": 1000,
-      "lastBidder": "user2"
+      "lastBid": 500,
+      "lastBidder": "user2",
+      "imageSource": "https://images.unsplash.com/photo-1549423506-90a675288ff1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "propertyPrice": 60000
     },
     {
       "streetName": "80 Epsilon Street",
       "cityStateName": "Austin, TX",
-      "maxBid": 4000,
+      "maxBid": 1500,
       "maxBidder": "user1",
-      "lastBid": 1000,
-      "lastBidder": "user2"
+      "lastBid": 200,
+      "lastBidder": "user2",
+      "imageSource": "https://images.unsplash.com/photo-1550022557-39c3d0afdeec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "propertyPrice": 9000
     }
   ]
 }

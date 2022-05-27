@@ -1,10 +1,5 @@
 ﻿namespace PropertyAPI;
 
-public class Properties
-{
-    public List<Property> ListedProperties { get; set; }
-}
-
 public class Property
 {
     public string StreetName { get; set; }
@@ -13,5 +8,7 @@ public class Property
     public string MaxBidder { get; set; }
     public int LastBid { get; set;  }
     public string LastBidder { get; set;  }
+    public string ImageSource { get; set; }
+    public int PropertyPrice { get; set; }
 }
 

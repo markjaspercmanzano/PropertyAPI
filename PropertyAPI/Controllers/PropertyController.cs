@@ -32,7 +32,9 @@ public class PropertyController : ControllerBase
                     MaxBid = property.maxBid,
                     MaxBidder = property.maxBidder,
                     LastBid = property.lastBid,
-                    LastBidder = property.lastBidder
+                    LastBidder = property.lastBidder,
+                    ImageSource = property.imageSource,
+                    PropertyPrice = property.propertyPrice
                 };
                 properties.Add(propertyToAdd);
             }
